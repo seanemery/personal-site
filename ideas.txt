@@ -1,0 +1,5 @@
+write some kind of static analysis tool that dynamically finds all links and puts them on a page somewhere
+alternatively, write a page generator script that tucks the page in a list of links
+write a script that creates a var with a path for every static resource, to be passed into pug
+write a "blog post" describing the EB process
+integrate globe-cli with a rust transpiler (https://github.com/adamsky/globe)
