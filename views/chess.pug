@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    - const eight = [0,1,2,3,4,5,6,7];
+    h1 hello world!
+    button New Game
+    table.board
+        for x of eight 
+            tr
+            for y of eight
+                td #{x},#{y}
