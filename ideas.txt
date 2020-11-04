@@ -3,3 +3,6 @@ alternatively, write a page generator script that tucks the page in a list of li
 write a script that creates a var with a path for every static resource, to be passed into pug
 write a "blog post" describing the EB process
 integrate globe-cli with a rust transpiler (https://github.com/adamsky/globe)
+ook compiler
+mtg limited rater
+WoW armory integration
