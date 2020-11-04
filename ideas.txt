@@ -6,3 +6,4 @@ integrate globe-cli with a rust transpiler (https://github.com/adamsky/globe)
 ook compiler
 mtg limited rater
 WoW armory integration
+chess board! :D
